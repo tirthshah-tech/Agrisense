@@ -1,0 +1,2054 @@
+[
+  {
+    "device_id": "DEV-SOIL-025",
+    "farm_id": 25,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-01T14:00:00",
+    "readings": {
+      "soil_temp_c": 23.2,
+      "soil_moisture_pct": 22.6,
+      "dielectric_permittivity": 30.53,
+      "pore_water_ec_ds_m": 0.54
+    },
+    "battery_level": 80.6,
+    "signal_strength_dbm": -63
+  },
+  {
+    "device_id": "DEV-MICR-035",
+    "farm_id": 35,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-02T01:00:00",
+    "readings": {
+      "ambient_temp_c": 24.0,
+      "relative_humidity_pct": 64.5,
+      "barometric_pressure_hpa": 1009.7,
+      "leaf_wetness_pct": 18.3
+    },
+    "battery_level": 95.0,
+    "signal_strength_dbm": -71
+  },
+  {
+    "device_id": "DEV-MICR-047",
+    "farm_id": 47,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-02T15:00:00",
+    "readings": {
+      "ambient_temp_c": 37.2,
+      "relative_humidity_pct": 55.5,
+      "barometric_pressure_hpa": 1010.7,
+      "leaf_wetness_pct": 29.9
+    },
+    "battery_level": 69.5,
+    "signal_strength_dbm": -69
+  },
+  {
+    "device_id": "DEV-SOIL-014",
+    "farm_id": 14,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-03T01:00:00",
+    "readings": {
+      "soil_temp_c": 28.0,
+      "soil_moisture_pct": 39.1,
+      "dielectric_permittivity": 33.8,
+      "pore_water_ec_ds_m": 1.13
+    },
+    "battery_level": 91.7,
+    "signal_strength_dbm": -74
+  },
+  {
+    "device_id": "DEV-MICR-030",
+    "farm_id": 30,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-03T16:00:00",
+    "readings": {
+      "ambient_temp_c": 28.0,
+      "relative_humidity_pct": 46.9,
+      "barometric_pressure_hpa": 1011.1,
+      "leaf_wetness_pct": 21.2
+    },
+    "battery_level": 83.5,
+    "signal_strength_dbm": -71
+  },
+  {
+    "device_id": "DEV-MICR-020",
+    "farm_id": 20,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-04T04:00:00",
+    "readings": {
+      "ambient_temp_c": 22.8,
+      "relative_humidity_pct": 41.9,
+      "barometric_pressure_hpa": 1012.4,
+      "leaf_wetness_pct": 7.1
+    },
+    "battery_level": 78.1,
+    "signal_strength_dbm": -69
+  },
+  {
+    "device_id": "DEV-MICR-028",
+    "farm_id": 28,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-04T13:00:00",
+    "readings": {
+      "ambient_temp_c": 22.4,
+      "relative_humidity_pct": 41.4,
+      "barometric_pressure_hpa": 1012.5,
+      "leaf_wetness_pct": 7.8
+    },
+    "battery_level": 98.4,
+    "signal_strength_dbm": -64
+  },
+  {
+    "device_id": "DEV-FLOW-037",
+    "farm_id": 37,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-05T01:00:00",
+    "readings": {
+      "flow_rate_lpm": 212.4,
+      "line_pressure_bar": 2.89,
+      "cumulative_flow_m3": 99.4
+    },
+    "battery_level": 79.0,
+    "signal_strength_dbm": -71
+  },
+  {
+    "device_id": "DEV-MICR-016",
+    "farm_id": 16,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-05T13:00:00",
+    "readings": {
+      "ambient_temp_c": 27.1,
+      "relative_humidity_pct": 81.3,
+      "barometric_pressure_hpa": 1012.9,
+      "leaf_wetness_pct": 33.1
+    },
+    "battery_level": 94.8,
+    "signal_strength_dbm": -64
+  },
+  {
+    "device_id": "DEV-SOIL-007",
+    "farm_id": 7,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-06T00:00:00",
+    "readings": {
+      "soil_temp_c": 18.3,
+      "soil_moisture_pct": 49.6,
+      "dielectric_permittivity": 32.0,
+      "pore_water_ec_ds_m": 0.73
+    },
+    "battery_level": 68.1,
+    "signal_strength_dbm": -56
+  },
+  {
+    "device_id": "DEV-FLOW-023",
+    "farm_id": 23,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-06T13:00:00",
+    "readings": {
+      "flow_rate_lpm": 154.6,
+      "line_pressure_bar": 2.1,
+      "cumulative_flow_m3": 276.2
+    },
+    "battery_level": 77.3,
+    "signal_strength_dbm": -56
+  },
+  {
+    "device_id": "DEV-MICR-021",
+    "farm_id": 21,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-07T04:00:00",
+    "readings": {
+      "ambient_temp_c": 29.6,
+      "relative_humidity_pct": 68.7,
+      "barometric_pressure_hpa": 1010.3,
+      "leaf_wetness_pct": 4.6
+    },
+    "battery_level": 84.1,
+    "signal_strength_dbm": -57
+  },
+  {
+    "device_id": "DEV-MICR-010",
+    "farm_id": 10,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-07T13:00:00",
+    "readings": {
+      "ambient_temp_c": 23.9,
+      "relative_humidity_pct": 80.1,
+      "barometric_pressure_hpa": 1011.3,
+      "leaf_wetness_pct": 25.3
+    },
+    "battery_level": 86.4,
+    "signal_strength_dbm": -63
+  },
+  {
+    "device_id": "DEV-SOIL-018",
+    "farm_id": 18,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-08T01:00:00",
+    "readings": {
+      "soil_temp_c": 27.3,
+      "soil_moisture_pct": 26.4,
+      "dielectric_permittivity": 22.23,
+      "pore_water_ec_ds_m": 1.16
+    },
+    "battery_level": 69.6,
+    "signal_strength_dbm": -73
+  },
+  {
+    "device_id": "DEV-MICR-031",
+    "farm_id": 31,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-08T15:00:00",
+    "readings": {
+      "ambient_temp_c": 24.7,
+      "relative_humidity_pct": 31.1,
+      "barometric_pressure_hpa": 1013.5,
+      "leaf_wetness_pct": 36.8
+    },
+    "battery_level": 96.7,
+    "signal_strength_dbm": -67
+  },
+  {
+    "device_id": "DEV-MICR-037",
+    "farm_id": 37,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-09T01:00:00",
+    "readings": {
+      "ambient_temp_c": 36.3,
+      "relative_humidity_pct": 83.4,
+      "barometric_pressure_hpa": 1015.6,
+      "leaf_wetness_pct": 25.5
+    },
+    "battery_level": 95.1,
+    "signal_strength_dbm": -83
+  },
+  {
+    "device_id": "DEV-SOIL-024",
+    "farm_id": 24,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-09T12:00:00",
+    "readings": {
+      "soil_temp_c": 19.9,
+      "soil_moisture_pct": 31.0,
+      "dielectric_permittivity": 21.05,
+      "pore_water_ec_ds_m": 0.55
+    },
+    "battery_level": 98.8,
+    "signal_strength_dbm": -60
+  },
+  {
+    "device_id": "DEV-FLOW-043",
+    "farm_id": 43,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-10T01:00:00",
+    "readings": {
+      "flow_rate_lpm": 193.8,
+      "line_pressure_bar": 2.8,
+      "cumulative_flow_m3": 305.9
+    },
+    "battery_level": 67.8,
+    "signal_strength_dbm": -66
+  },
+  {
+    "device_id": "DEV-FLOW-032",
+    "farm_id": 32,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-10T12:00:00",
+    "readings": {
+      "flow_rate_lpm": 324.9,
+      "line_pressure_bar": 2.38,
+      "cumulative_flow_m3": 91.5
+    },
+    "battery_level": 93.9,
+    "signal_strength_dbm": -79
+  },
+  {
+    "device_id": "DEV-FLOW-033",
+    "farm_id": 33,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-11T02:00:00",
+    "readings": {
+      "flow_rate_lpm": 328.0,
+      "line_pressure_bar": 1.83,
+      "cumulative_flow_m3": 132.6
+    },
+    "battery_level": 70.7,
+    "signal_strength_dbm": -65
+  },
+  {
+    "device_id": "DEV-MICR-016",
+    "farm_id": 16,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-11T14:00:00",
+    "readings": {
+      "ambient_temp_c": 29.2,
+      "relative_humidity_pct": 53.8,
+      "barometric_pressure_hpa": 1008.3,
+      "leaf_wetness_pct": 33.7
+    },
+    "battery_level": 90.8,
+    "signal_strength_dbm": -71
+  },
+  {
+    "device_id": "DEV-MICR-043",
+    "farm_id": 43,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-12T00:00:00",
+    "readings": {
+      "ambient_temp_c": 30.8,
+      "relative_humidity_pct": 37.2,
+      "barometric_pressure_hpa": 1015.8,
+      "leaf_wetness_pct": 28.1
+    },
+    "battery_level": 90.0,
+    "signal_strength_dbm": -85
+  },
+  {
+    "device_id": "DEV-SOIL-020",
+    "farm_id": 20,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-12T15:00:00",
+    "readings": {
+      "soil_temp_c": 30.7,
+      "soil_moisture_pct": 33.4,
+      "dielectric_permittivity": 12.83,
+      "pore_water_ec_ds_m": 1.07
+    },
+    "battery_level": 88.7,
+    "signal_strength_dbm": -75
+  },
+  {
+    "device_id": "DEV-MICR-024",
+    "farm_id": 24,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-13T04:00:00",
+    "readings": {
+      "ambient_temp_c": 28.5,
+      "relative_humidity_pct": 48.8,
+      "barometric_pressure_hpa": 1015.5,
+      "leaf_wetness_pct": 32.4
+    },
+    "battery_level": 83.8,
+    "signal_strength_dbm": -70
+  },
+  {
+    "device_id": "DEV-SOIL-019",
+    "farm_id": 19,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-13T14:00:00",
+    "readings": {
+      "soil_temp_c": 30.8,
+      "soil_moisture_pct": 49.6,
+      "dielectric_permittivity": 13.95,
+      "pore_water_ec_ds_m": 1.07
+    },
+    "battery_level": 75.8,
+    "signal_strength_dbm": -69
+  },
+  {
+    "device_id": "DEV-SOIL-008",
+    "farm_id": 8,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-14T00:00:00",
+    "readings": {
+      "soil_temp_c": 29.3,
+      "soil_moisture_pct": 25.2,
+      "dielectric_permittivity": 13.71,
+      "pore_water_ec_ds_m": 0.77
+    },
+    "battery_level": 70.2,
+    "signal_strength_dbm": -60
+  },
+  {
+    "device_id": "DEV-SOIL-016",
+    "farm_id": 16,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-14T12:00:00",
+    "readings": {
+      "soil_temp_c": 18.1,
+      "soil_moisture_pct": 22.4,
+      "dielectric_permittivity": 30.56,
+      "pore_water_ec_ds_m": 1.27
+    },
+    "battery_level": 86.0,
+    "signal_strength_dbm": -81
+  },
+  {
+    "device_id": "DEV-FLOW-038",
+    "farm_id": 38,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-15T03:00:00",
+    "readings": {
+      "flow_rate_lpm": 320.9,
+      "line_pressure_bar": 2.9,
+      "cumulative_flow_m3": 74.1
+    },
+    "battery_level": 69.1,
+    "signal_strength_dbm": -63
+  },
+  {
+    "device_id": "DEV-FLOW-009",
+    "farm_id": 9,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-15T13:00:00",
+    "readings": {
+      "flow_rate_lpm": 333.1,
+      "line_pressure_bar": 2.06,
+      "cumulative_flow_m3": 242.5
+    },
+    "battery_level": 68.1,
+    "signal_strength_dbm": -72
+  },
+  {
+    "device_id": "DEV-SOIL-044",
+    "farm_id": 44,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-16T01:00:00",
+    "readings": {
+      "soil_temp_c": 18.7,
+      "soil_moisture_pct": 24.4,
+      "dielectric_permittivity": 19.37,
+      "pore_water_ec_ds_m": 0.93
+    },
+    "battery_level": 81.2,
+    "signal_strength_dbm": -79
+  },
+  {
+    "device_id": "DEV-FLOW-046",
+    "farm_id": 46,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-16T15:00:00",
+    "readings": {
+      "flow_rate_lpm": 282.4,
+      "line_pressure_bar": 2.46,
+      "cumulative_flow_m3": 246.2
+    },
+    "battery_level": 85.1,
+    "signal_strength_dbm": -58
+  },
+  {
+    "device_id": "DEV-SOIL-004",
+    "farm_id": 4,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-17T03:00:00",
+    "readings": {
+      "soil_temp_c": 25.1,
+      "soil_moisture_pct": 24.4,
+      "dielectric_permittivity": 34.41,
+      "pore_water_ec_ds_m": 0.66
+    },
+    "battery_level": 94.9,
+    "signal_strength_dbm": -67
+  },
+  {
+    "device_id": "DEV-FLOW-013",
+    "farm_id": 13,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-17T12:00:00",
+    "readings": {
+      "flow_rate_lpm": 295.2,
+      "line_pressure_bar": 2.06,
+      "cumulative_flow_m3": 278.4
+    },
+    "battery_level": 90.7,
+    "signal_strength_dbm": -78
+  },
+  {
+    "device_id": "DEV-FLOW-011",
+    "farm_id": 11,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-18T03:00:00",
+    "readings": {
+      "flow_rate_lpm": 312.3,
+      "line_pressure_bar": 2.22,
+      "cumulative_flow_m3": 158.4
+    },
+    "battery_level": 86.8,
+    "signal_strength_dbm": -79
+  },
+  {
+    "device_id": "DEV-MICR-028",
+    "farm_id": 28,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-18T14:00:00",
+    "readings": {
+      "ambient_temp_c": 33.8,
+      "relative_humidity_pct": 59.2,
+      "barometric_pressure_hpa": 1013.2,
+      "leaf_wetness_pct": 43.6
+    },
+    "battery_level": 73.6,
+    "signal_strength_dbm": -61
+  },
+  {
+    "device_id": "DEV-SOIL-011",
+    "farm_id": 11,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-19T00:00:00",
+    "readings": {
+      "soil_temp_c": 18.9,
+      "soil_moisture_pct": 32.3,
+      "dielectric_permittivity": 28.86,
+      "pore_water_ec_ds_m": 1.02
+    },
+    "battery_level": 92.8,
+    "signal_strength_dbm": -83
+  },
+  {
+    "device_id": "DEV-SOIL-044",
+    "farm_id": 44,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-19T15:00:00",
+    "readings": {
+      "soil_temp_c": 31.7,
+      "soil_moisture_pct": 42.2,
+      "dielectric_permittivity": 19.32,
+      "pore_water_ec_ds_m": 1.17
+    },
+    "battery_level": 96.1,
+    "signal_strength_dbm": -63
+  },
+  {
+    "device_id": "DEV-FLOW-044",
+    "farm_id": 44,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-20T04:00:00",
+    "readings": {
+      "flow_rate_lpm": 340.6,
+      "line_pressure_bar": 2.6,
+      "cumulative_flow_m3": 245.0
+    },
+    "battery_level": 75.8,
+    "signal_strength_dbm": -74
+  },
+  {
+    "device_id": "DEV-MICR-031",
+    "farm_id": 31,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-20T14:00:00",
+    "readings": {
+      "ambient_temp_c": 26.8,
+      "relative_humidity_pct": 56.9,
+      "barometric_pressure_hpa": 1012.4,
+      "leaf_wetness_pct": 33.5
+    },
+    "battery_level": 72.8,
+    "signal_strength_dbm": -80
+  },
+  {
+    "device_id": "DEV-MICR-003",
+    "farm_id": 3,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-21T02:00:00",
+    "readings": {
+      "ambient_temp_c": 29.4,
+      "relative_humidity_pct": 55.4,
+      "barometric_pressure_hpa": 1015.4,
+      "leaf_wetness_pct": 38.1
+    },
+    "battery_level": 98.1,
+    "signal_strength_dbm": -71
+  },
+  {
+    "device_id": "DEV-SOIL-030",
+    "farm_id": 30,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-21T15:00:00",
+    "readings": {
+      "soil_temp_c": 20.0,
+      "soil_moisture_pct": 44.5,
+      "dielectric_permittivity": 21.65,
+      "pore_water_ec_ds_m": 0.42
+    },
+    "battery_level": 69.7,
+    "signal_strength_dbm": -75
+  },
+  {
+    "device_id": "DEV-MICR-025",
+    "farm_id": 25,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-22T01:00:00",
+    "readings": {
+      "ambient_temp_c": 27.9,
+      "relative_humidity_pct": 53.9,
+      "barometric_pressure_hpa": 1014.5,
+      "leaf_wetness_pct": 40.7
+    },
+    "battery_level": 70.1,
+    "signal_strength_dbm": -55
+  },
+  {
+    "device_id": "DEV-SOIL-012",
+    "farm_id": 12,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-22T13:00:00",
+    "readings": {
+      "soil_temp_c": 18.2,
+      "soil_moisture_pct": 36.2,
+      "dielectric_permittivity": 18.23,
+      "pore_water_ec_ds_m": 0.6
+    },
+    "battery_level": 81.9,
+    "signal_strength_dbm": -80
+  },
+  {
+    "device_id": "DEV-MICR-020",
+    "farm_id": 20,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-23T04:00:00",
+    "readings": {
+      "ambient_temp_c": 25.6,
+      "relative_humidity_pct": 56.8,
+      "barometric_pressure_hpa": 1013.8,
+      "leaf_wetness_pct": 19.5
+    },
+    "battery_level": 97.2,
+    "signal_strength_dbm": -80
+  },
+  {
+    "device_id": "DEV-MICR-032",
+    "farm_id": 32,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-23T12:00:00",
+    "readings": {
+      "ambient_temp_c": 37.4,
+      "relative_humidity_pct": 33.7,
+      "barometric_pressure_hpa": 1010.6,
+      "leaf_wetness_pct": 21.5
+    },
+    "battery_level": 74.8,
+    "signal_strength_dbm": -78
+  },
+  {
+    "device_id": "DEV-SOIL-034",
+    "farm_id": 34,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-24T03:00:00",
+    "readings": {
+      "soil_temp_c": 23.8,
+      "soil_moisture_pct": 22.4,
+      "dielectric_permittivity": 19.08,
+      "pore_water_ec_ds_m": 0.56
+    },
+    "battery_level": 86.4,
+    "signal_strength_dbm": -64
+  },
+  {
+    "device_id": "DEV-FLOW-040",
+    "farm_id": 40,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-24T15:00:00",
+    "readings": {
+      "flow_rate_lpm": 148.0,
+      "line_pressure_bar": 1.98,
+      "cumulative_flow_m3": 122.5
+    },
+    "battery_level": 89.6,
+    "signal_strength_dbm": -60
+  },
+  {
+    "device_id": "DEV-MICR-045",
+    "farm_id": 45,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-25T01:00:00",
+    "readings": {
+      "ambient_temp_c": 31.0,
+      "relative_humidity_pct": 56.0,
+      "barometric_pressure_hpa": 1008.1,
+      "leaf_wetness_pct": 16.7
+    },
+    "battery_level": 73.4,
+    "signal_strength_dbm": -55
+  },
+  {
+    "device_id": "DEV-MICR-021",
+    "farm_id": 21,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-25T13:00:00",
+    "readings": {
+      "ambient_temp_c": 32.1,
+      "relative_humidity_pct": 79.6,
+      "barometric_pressure_hpa": 1011.8,
+      "leaf_wetness_pct": 12.6
+    },
+    "battery_level": 76.6,
+    "signal_strength_dbm": -60
+  },
+  {
+    "device_id": "DEV-SOIL-022",
+    "farm_id": 22,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-26T01:00:00",
+    "readings": {
+      "soil_temp_c": 31.5,
+      "soil_moisture_pct": 45.4,
+      "dielectric_permittivity": 25.16,
+      "pore_water_ec_ds_m": 1.31
+    },
+    "battery_level": 89.1,
+    "signal_strength_dbm": -66
+  },
+  {
+    "device_id": "DEV-MICR-016",
+    "farm_id": 16,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-26T13:00:00",
+    "readings": {
+      "ambient_temp_c": 31.0,
+      "relative_humidity_pct": 79.0,
+      "barometric_pressure_hpa": 1010.5,
+      "leaf_wetness_pct": 39.6
+    },
+    "battery_level": 78.1,
+    "signal_strength_dbm": -81
+  },
+  {
+    "device_id": "DEV-SOIL-040",
+    "farm_id": 40,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-27T02:00:00",
+    "readings": {
+      "soil_temp_c": 25.4,
+      "soil_moisture_pct": 35.9,
+      "dielectric_permittivity": 32.71,
+      "pore_water_ec_ds_m": 1.35
+    },
+    "battery_level": 89.7,
+    "signal_strength_dbm": -83
+  },
+  {
+    "device_id": "DEV-SOIL-029",
+    "farm_id": 29,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-27T15:00:00",
+    "readings": {
+      "soil_temp_c": 29.1,
+      "soil_moisture_pct": 30.3,
+      "dielectric_permittivity": 15.29,
+      "pore_water_ec_ds_m": 1.25
+    },
+    "battery_level": 67.0,
+    "signal_strength_dbm": -78
+  },
+  {
+    "device_id": "DEV-MICR-015",
+    "farm_id": 15,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-28T00:00:00",
+    "readings": {
+      "ambient_temp_c": 27.7,
+      "relative_humidity_pct": 64.1,
+      "barometric_pressure_hpa": 1012.5,
+      "leaf_wetness_pct": 35.3
+    },
+    "battery_level": 97.5,
+    "signal_strength_dbm": -70
+  },
+  {
+    "device_id": "DEV-FLOW-021",
+    "farm_id": 21,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-28T16:00:00",
+    "readings": {
+      "flow_rate_lpm": 166.0,
+      "line_pressure_bar": 2.94,
+      "cumulative_flow_m3": 96.8
+    },
+    "battery_level": 96.4,
+    "signal_strength_dbm": -66
+  },
+  {
+    "device_id": "DEV-FLOW-008",
+    "farm_id": 8,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-29T02:00:00",
+    "readings": {
+      "flow_rate_lpm": 133.9,
+      "line_pressure_bar": 3.04,
+      "cumulative_flow_m3": 189.0
+    },
+    "battery_level": 82.1,
+    "signal_strength_dbm": -78
+  },
+  {
+    "device_id": "DEV-FLOW-025",
+    "farm_id": 25,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-29T15:00:00",
+    "readings": {
+      "flow_rate_lpm": 308.3,
+      "line_pressure_bar": 1.82,
+      "cumulative_flow_m3": 116.8
+    },
+    "battery_level": 69.9,
+    "signal_strength_dbm": -85
+  },
+  {
+    "device_id": "DEV-SOIL-002",
+    "farm_id": 2,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-01-30T03:00:00",
+    "readings": {
+      "soil_temp_c": 23.2,
+      "soil_moisture_pct": 45.3,
+      "dielectric_permittivity": 34.84,
+      "pore_water_ec_ds_m": 0.85
+    },
+    "battery_level": 78.0,
+    "signal_strength_dbm": -80
+  },
+  {
+    "device_id": "DEV-MICR-039",
+    "farm_id": 39,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-30T15:00:00",
+    "readings": {
+      "ambient_temp_c": 23.7,
+      "relative_humidity_pct": 45.0,
+      "barometric_pressure_hpa": 1010.2,
+      "leaf_wetness_pct": 31.8
+    },
+    "battery_level": 80.4,
+    "signal_strength_dbm": -80
+  },
+  {
+    "device_id": "DEV-MICR-038",
+    "farm_id": 38,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-01-31T01:00:00",
+    "readings": {
+      "ambient_temp_c": 37.3,
+      "relative_humidity_pct": 36.8,
+      "barometric_pressure_hpa": 1014.9,
+      "leaf_wetness_pct": 24.9
+    },
+    "battery_level": 77.5,
+    "signal_strength_dbm": -75
+  },
+  {
+    "device_id": "DEV-FLOW-047",
+    "farm_id": 47,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-01-31T15:00:00",
+    "readings": {
+      "flow_rate_lpm": 125.9,
+      "line_pressure_bar": 2.41,
+      "cumulative_flow_m3": 134.1
+    },
+    "battery_level": 71.1,
+    "signal_strength_dbm": -66
+  },
+  {
+    "device_id": "DEV-MICR-003",
+    "farm_id": 3,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-01T02:00:00",
+    "readings": {
+      "ambient_temp_c": 31.0,
+      "relative_humidity_pct": 61.3,
+      "barometric_pressure_hpa": 1015.1,
+      "leaf_wetness_pct": 2.5
+    },
+    "battery_level": 89.4,
+    "signal_strength_dbm": -81
+  },
+  {
+    "device_id": "DEV-SOIL-032",
+    "farm_id": 32,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-01T12:00:00",
+    "readings": {
+      "soil_temp_c": 20.0,
+      "soil_moisture_pct": 25.1,
+      "dielectric_permittivity": 15.76,
+      "pore_water_ec_ds_m": 1.11
+    },
+    "battery_level": 68.1,
+    "signal_strength_dbm": -74
+  },
+  {
+    "device_id": "DEV-SOIL-023",
+    "farm_id": 23,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-02T02:00:00",
+    "readings": {
+      "soil_temp_c": 23.8,
+      "soil_moisture_pct": 44.5,
+      "dielectric_permittivity": 23.33,
+      "pore_water_ec_ds_m": 0.95
+    },
+    "battery_level": 82.8,
+    "signal_strength_dbm": -65
+  },
+  {
+    "device_id": "DEV-FLOW-026",
+    "farm_id": 26,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-02T13:00:00",
+    "readings": {
+      "flow_rate_lpm": 309.3,
+      "line_pressure_bar": 2.94,
+      "cumulative_flow_m3": 168.3
+    },
+    "battery_level": 68.9,
+    "signal_strength_dbm": -56
+  },
+  {
+    "device_id": "DEV-SOIL-017",
+    "farm_id": 17,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-03T01:00:00",
+    "readings": {
+      "soil_temp_c": 18.8,
+      "soil_moisture_pct": 42.5,
+      "dielectric_permittivity": 12.56,
+      "pore_water_ec_ds_m": 1.04
+    },
+    "battery_level": 88.7,
+    "signal_strength_dbm": -70
+  },
+  {
+    "device_id": "DEV-SOIL-003",
+    "farm_id": 3,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-03T12:00:00",
+    "readings": {
+      "soil_temp_c": 28.6,
+      "soil_moisture_pct": 50.5,
+      "dielectric_permittivity": 33.95,
+      "pore_water_ec_ds_m": 0.54
+    },
+    "battery_level": 75.9,
+    "signal_strength_dbm": -73
+  },
+  {
+    "device_id": "DEV-SOIL-041",
+    "farm_id": 41,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-04T03:00:00",
+    "readings": {
+      "soil_temp_c": 25.1,
+      "soil_moisture_pct": 30.7,
+      "dielectric_permittivity": 12.54,
+      "pore_water_ec_ds_m": 1.11
+    },
+    "battery_level": 79.1,
+    "signal_strength_dbm": -83
+  },
+  {
+    "device_id": "DEV-FLOW-003",
+    "farm_id": 3,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-04T13:00:00",
+    "readings": {
+      "flow_rate_lpm": 128.3,
+      "line_pressure_bar": 2.12,
+      "cumulative_flow_m3": 180.2
+    },
+    "battery_level": 76.9,
+    "signal_strength_dbm": -83
+  },
+  {
+    "device_id": "DEV-FLOW-038",
+    "farm_id": 38,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-05T02:00:00",
+    "readings": {
+      "flow_rate_lpm": 326.7,
+      "line_pressure_bar": 2.03,
+      "cumulative_flow_m3": 103.5
+    },
+    "battery_level": 83.2,
+    "signal_strength_dbm": -56
+  },
+  {
+    "device_id": "DEV-MICR-041",
+    "farm_id": 41,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-05T16:00:00",
+    "readings": {
+      "ambient_temp_c": 26.3,
+      "relative_humidity_pct": 50.6,
+      "barometric_pressure_hpa": 1011.1,
+      "leaf_wetness_pct": 37.6
+    },
+    "battery_level": 90.6,
+    "signal_strength_dbm": -77
+  },
+  {
+    "device_id": "DEV-MICR-022",
+    "farm_id": 22,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-06T01:00:00",
+    "readings": {
+      "ambient_temp_c": 36.4,
+      "relative_humidity_pct": 51.6,
+      "barometric_pressure_hpa": 1013.2,
+      "leaf_wetness_pct": 20.3
+    },
+    "battery_level": 80.1,
+    "signal_strength_dbm": -55
+  },
+  {
+    "device_id": "DEV-MICR-042",
+    "farm_id": 42,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-06T16:00:00",
+    "readings": {
+      "ambient_temp_c": 25.3,
+      "relative_humidity_pct": 36.2,
+      "barometric_pressure_hpa": 1011.1,
+      "leaf_wetness_pct": 4.8
+    },
+    "battery_level": 96.7,
+    "signal_strength_dbm": -79
+  },
+  {
+    "device_id": "DEV-FLOW-013",
+    "farm_id": 13,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-07T04:00:00",
+    "readings": {
+      "flow_rate_lpm": 291.9,
+      "line_pressure_bar": 2.97,
+      "cumulative_flow_m3": 230.4
+    },
+    "battery_level": 95.1,
+    "signal_strength_dbm": -59
+  },
+  {
+    "device_id": "DEV-MICR-020",
+    "farm_id": 20,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-07T14:00:00",
+    "readings": {
+      "ambient_temp_c": 22.9,
+      "relative_humidity_pct": 64.4,
+      "barometric_pressure_hpa": 1012.5,
+      "leaf_wetness_pct": 39.8
+    },
+    "battery_level": 73.6,
+    "signal_strength_dbm": -69
+  },
+  {
+    "device_id": "DEV-SOIL-002",
+    "farm_id": 2,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-08T02:00:00",
+    "readings": {
+      "soil_temp_c": 21.0,
+      "soil_moisture_pct": 27.4,
+      "dielectric_permittivity": 19.68,
+      "pore_water_ec_ds_m": 0.9
+    },
+    "battery_level": 89.5,
+    "signal_strength_dbm": -62
+  },
+  {
+    "device_id": "DEV-MICR-021",
+    "farm_id": 21,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-08T15:00:00",
+    "readings": {
+      "ambient_temp_c": 31.6,
+      "relative_humidity_pct": 39.1,
+      "barometric_pressure_hpa": 1011.9,
+      "leaf_wetness_pct": 25.2
+    },
+    "battery_level": 74.7,
+    "signal_strength_dbm": -64
+  },
+  {
+    "device_id": "DEV-FLOW-016",
+    "farm_id": 16,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-09T00:00:00",
+    "readings": {
+      "flow_rate_lpm": 144.7,
+      "line_pressure_bar": 1.8,
+      "cumulative_flow_m3": 53.6
+    },
+    "battery_level": 66.7,
+    "signal_strength_dbm": -85
+  },
+  {
+    "device_id": "DEV-MICR-018",
+    "farm_id": 18,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-09T12:00:00",
+    "readings": {
+      "ambient_temp_c": 29.1,
+      "relative_humidity_pct": 70.1,
+      "barometric_pressure_hpa": 1015.7,
+      "leaf_wetness_pct": 4.4
+    },
+    "battery_level": 77.5,
+    "signal_strength_dbm": -65
+  },
+  {
+    "device_id": "DEV-FLOW-013",
+    "farm_id": 13,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-10T03:00:00",
+    "readings": {
+      "flow_rate_lpm": 321.6,
+      "line_pressure_bar": 1.91,
+      "cumulative_flow_m3": 159.8
+    },
+    "battery_level": 65.8,
+    "signal_strength_dbm": -61
+  },
+  {
+    "device_id": "DEV-MICR-003",
+    "farm_id": 3,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-10T12:00:00",
+    "readings": {
+      "ambient_temp_c": 24.3,
+      "relative_humidity_pct": 55.1,
+      "barometric_pressure_hpa": 1015.5,
+      "leaf_wetness_pct": 44.2
+    },
+    "battery_level": 96.1,
+    "signal_strength_dbm": -82
+  },
+  {
+    "device_id": "DEV-MICR-041",
+    "farm_id": 41,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-11T00:00:00",
+    "readings": {
+      "ambient_temp_c": 24.8,
+      "relative_humidity_pct": 36.2,
+      "barometric_pressure_hpa": 1013.8,
+      "leaf_wetness_pct": 20.5
+    },
+    "battery_level": 95.1,
+    "signal_strength_dbm": -63
+  },
+  {
+    "device_id": "DEV-MICR-036",
+    "farm_id": 36,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-11T14:00:00",
+    "readings": {
+      "ambient_temp_c": 22.4,
+      "relative_humidity_pct": 61.0,
+      "barometric_pressure_hpa": 1008.5,
+      "leaf_wetness_pct": 31.1
+    },
+    "battery_level": 72.3,
+    "signal_strength_dbm": -73
+  },
+  {
+    "device_id": "DEV-SOIL-044",
+    "farm_id": 44,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-12T03:00:00",
+    "readings": {
+      "soil_temp_c": 18.5,
+      "soil_moisture_pct": 35.0,
+      "dielectric_permittivity": 22.71,
+      "pore_water_ec_ds_m": 0.58
+    },
+    "battery_level": 65.5,
+    "signal_strength_dbm": -57
+  },
+  {
+    "device_id": "DEV-MICR-003",
+    "farm_id": 3,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-12T12:00:00",
+    "readings": {
+      "ambient_temp_c": 33.4,
+      "relative_humidity_pct": 69.5,
+      "barometric_pressure_hpa": 1009.6,
+      "leaf_wetness_pct": 12.0
+    },
+    "battery_level": 87.8,
+    "signal_strength_dbm": -55
+  },
+  {
+    "device_id": "DEV-FLOW-013",
+    "farm_id": 13,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-13T01:00:00",
+    "readings": {
+      "flow_rate_lpm": 223.0,
+      "line_pressure_bar": 1.8,
+      "cumulative_flow_m3": 223.8
+    },
+    "battery_level": 94.7,
+    "signal_strength_dbm": -59
+  },
+  {
+    "device_id": "DEV-FLOW-028",
+    "farm_id": 28,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-13T16:00:00",
+    "readings": {
+      "flow_rate_lpm": 232.4,
+      "line_pressure_bar": 2.12,
+      "cumulative_flow_m3": 278.3
+    },
+    "battery_level": 66.6,
+    "signal_strength_dbm": -74
+  },
+  {
+    "device_id": "DEV-MICR-006",
+    "farm_id": 6,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-14T04:00:00",
+    "readings": {
+      "ambient_temp_c": 29.3,
+      "relative_humidity_pct": 56.0,
+      "barometric_pressure_hpa": 1009.3,
+      "leaf_wetness_pct": 29.6
+    },
+    "battery_level": 77.6,
+    "signal_strength_dbm": -68
+  },
+  {
+    "device_id": "DEV-MICR-035",
+    "farm_id": 35,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-14T13:00:00",
+    "readings": {
+      "ambient_temp_c": 33.8,
+      "relative_humidity_pct": 49.1,
+      "barometric_pressure_hpa": 1009.4,
+      "leaf_wetness_pct": 18.1
+    },
+    "battery_level": 80.9,
+    "signal_strength_dbm": -74
+  },
+  {
+    "device_id": "DEV-FLOW-019",
+    "farm_id": 19,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-15T01:00:00",
+    "readings": {
+      "flow_rate_lpm": 292.9,
+      "line_pressure_bar": 2.49,
+      "cumulative_flow_m3": 194.1
+    },
+    "battery_level": 77.3,
+    "signal_strength_dbm": -72
+  },
+  {
+    "device_id": "DEV-MICR-006",
+    "farm_id": 6,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-15T16:00:00",
+    "readings": {
+      "ambient_temp_c": 36.2,
+      "relative_humidity_pct": 48.3,
+      "barometric_pressure_hpa": 1010.9,
+      "leaf_wetness_pct": 21.0
+    },
+    "battery_level": 90.6,
+    "signal_strength_dbm": -58
+  },
+  {
+    "device_id": "DEV-SOIL-044",
+    "farm_id": 44,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-16T01:00:00",
+    "readings": {
+      "soil_temp_c": 22.8,
+      "soil_moisture_pct": 49.5,
+      "dielectric_permittivity": 34.6,
+      "pore_water_ec_ds_m": 0.55
+    },
+    "battery_level": 76.6,
+    "signal_strength_dbm": -65
+  },
+  {
+    "device_id": "DEV-SOIL-011",
+    "farm_id": 11,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-16T16:00:00",
+    "readings": {
+      "soil_temp_c": 31.7,
+      "soil_moisture_pct": 45.8,
+      "dielectric_permittivity": 30.97,
+      "pore_water_ec_ds_m": 0.8
+    },
+    "battery_level": 93.0,
+    "signal_strength_dbm": -57
+  },
+  {
+    "device_id": "DEV-FLOW-008",
+    "farm_id": 8,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-17T04:00:00",
+    "readings": {
+      "flow_rate_lpm": 129.7,
+      "line_pressure_bar": 1.95,
+      "cumulative_flow_m3": 46.1
+    },
+    "battery_level": 96.8,
+    "signal_strength_dbm": -64
+  },
+  {
+    "device_id": "DEV-FLOW-011",
+    "farm_id": 11,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-17T13:00:00",
+    "readings": {
+      "flow_rate_lpm": 283.2,
+      "line_pressure_bar": 2.27,
+      "cumulative_flow_m3": 77.2
+    },
+    "battery_level": 89.9,
+    "signal_strength_dbm": -60
+  },
+  {
+    "device_id": "DEV-MICR-024",
+    "farm_id": 24,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-18T04:00:00",
+    "readings": {
+      "ambient_temp_c": 30.4,
+      "relative_humidity_pct": 75.1,
+      "barometric_pressure_hpa": 1009.8,
+      "leaf_wetness_pct": 15.8
+    },
+    "battery_level": 78.9,
+    "signal_strength_dbm": -61
+  },
+  {
+    "device_id": "DEV-FLOW-007",
+    "farm_id": 7,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-18T13:00:00",
+    "readings": {
+      "flow_rate_lpm": 268.1,
+      "line_pressure_bar": 2.02,
+      "cumulative_flow_m3": 235.8
+    },
+    "battery_level": 90.6,
+    "signal_strength_dbm": -63
+  },
+  {
+    "device_id": "DEV-SOIL-001",
+    "farm_id": 1,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-19T04:00:00",
+    "readings": {
+      "soil_temp_c": 24.9,
+      "soil_moisture_pct": 49.5,
+      "dielectric_permittivity": 27.98,
+      "pore_water_ec_ds_m": 0.71
+    },
+    "battery_level": 90.7,
+    "signal_strength_dbm": -76
+  },
+  {
+    "device_id": "DEV-FLOW-014",
+    "farm_id": 14,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-19T16:00:00",
+    "readings": {
+      "flow_rate_lpm": 142.2,
+      "line_pressure_bar": 2.94,
+      "cumulative_flow_m3": 51.5
+    },
+    "battery_level": 66.1,
+    "signal_strength_dbm": -82
+  },
+  {
+    "device_id": "DEV-FLOW-014",
+    "farm_id": 14,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-20T01:00:00",
+    "readings": {
+      "flow_rate_lpm": 136.4,
+      "line_pressure_bar": 2.15,
+      "cumulative_flow_m3": 306.5
+    },
+    "battery_level": 79.3,
+    "signal_strength_dbm": -74
+  },
+  {
+    "device_id": "DEV-SOIL-043",
+    "farm_id": 43,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-20T15:00:00",
+    "readings": {
+      "soil_temp_c": 27.8,
+      "soil_moisture_pct": 31.0,
+      "dielectric_permittivity": 20.92,
+      "pore_water_ec_ds_m": 0.61
+    },
+    "battery_level": 79.6,
+    "signal_strength_dbm": -67
+  },
+  {
+    "device_id": "DEV-FLOW-031",
+    "farm_id": 31,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-21T04:00:00",
+    "readings": {
+      "flow_rate_lpm": 129.6,
+      "line_pressure_bar": 2.49,
+      "cumulative_flow_m3": 53.7
+    },
+    "battery_level": 75.9,
+    "signal_strength_dbm": -85
+  },
+  {
+    "device_id": "DEV-MICR-017",
+    "farm_id": 17,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-21T15:00:00",
+    "readings": {
+      "ambient_temp_c": 34.0,
+      "relative_humidity_pct": 72.3,
+      "barometric_pressure_hpa": 1011.4,
+      "leaf_wetness_pct": 26.4
+    },
+    "battery_level": 94.9,
+    "signal_strength_dbm": -55
+  },
+  {
+    "device_id": "DEV-SOIL-044",
+    "farm_id": 44,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-22T03:00:00",
+    "readings": {
+      "soil_temp_c": 23.3,
+      "soil_moisture_pct": 50.9,
+      "dielectric_permittivity": 29.46,
+      "pore_water_ec_ds_m": 0.49
+    },
+    "battery_level": 73.6,
+    "signal_strength_dbm": -83
+  },
+  {
+    "device_id": "DEV-FLOW-006",
+    "farm_id": 6,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-22T13:00:00",
+    "readings": {
+      "flow_rate_lpm": 311.0,
+      "line_pressure_bar": 2.68,
+      "cumulative_flow_m3": 70.9
+    },
+    "battery_level": 77.9,
+    "signal_strength_dbm": -75
+  },
+  {
+    "device_id": "DEV-MICR-016",
+    "farm_id": 16,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-23T04:00:00",
+    "readings": {
+      "ambient_temp_c": 22.5,
+      "relative_humidity_pct": 47.0,
+      "barometric_pressure_hpa": 1014.2,
+      "leaf_wetness_pct": 38.5
+    },
+    "battery_level": 72.4,
+    "signal_strength_dbm": -72
+  },
+  {
+    "device_id": "DEV-FLOW-007",
+    "farm_id": 7,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-23T12:00:00",
+    "readings": {
+      "flow_rate_lpm": 149.5,
+      "line_pressure_bar": 3.01,
+      "cumulative_flow_m3": 259.7
+    },
+    "battery_level": 96.8,
+    "signal_strength_dbm": -71
+  },
+  {
+    "device_id": "DEV-SOIL-005",
+    "farm_id": 5,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-24T04:00:00",
+    "readings": {
+      "soil_temp_c": 24.5,
+      "soil_moisture_pct": 42.9,
+      "dielectric_permittivity": 20.93,
+      "pore_water_ec_ds_m": 1.32
+    },
+    "battery_level": 87.2,
+    "signal_strength_dbm": -84
+  },
+  {
+    "device_id": "DEV-SOIL-017",
+    "farm_id": 17,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-24T16:00:00",
+    "readings": {
+      "soil_temp_c": 27.8,
+      "soil_moisture_pct": 36.7,
+      "dielectric_permittivity": 32.75,
+      "pore_water_ec_ds_m": 0.69
+    },
+    "battery_level": 70.5,
+    "signal_strength_dbm": -76
+  },
+  {
+    "device_id": "DEV-MICR-039",
+    "farm_id": 39,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-25T02:00:00",
+    "readings": {
+      "ambient_temp_c": 23.8,
+      "relative_humidity_pct": 38.5,
+      "barometric_pressure_hpa": 1014.7,
+      "leaf_wetness_pct": 9.0
+    },
+    "battery_level": 81.5,
+    "signal_strength_dbm": -85
+  },
+  {
+    "device_id": "DEV-MICR-025",
+    "farm_id": 25,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-25T13:00:00",
+    "readings": {
+      "ambient_temp_c": 22.7,
+      "relative_humidity_pct": 40.0,
+      "barometric_pressure_hpa": 1010.7,
+      "leaf_wetness_pct": 30.7
+    },
+    "battery_level": 93.7,
+    "signal_strength_dbm": -78
+  },
+  {
+    "device_id": "DEV-FLOW-046",
+    "farm_id": 46,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-26T03:00:00",
+    "readings": {
+      "flow_rate_lpm": 338.0,
+      "line_pressure_bar": 1.96,
+      "cumulative_flow_m3": 90.2
+    },
+    "battery_level": 69.5,
+    "signal_strength_dbm": -55
+  },
+  {
+    "device_id": "DEV-SOIL-039",
+    "farm_id": 39,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-26T16:00:00",
+    "readings": {
+      "soil_temp_c": 24.1,
+      "soil_moisture_pct": 33.0,
+      "dielectric_permittivity": 28.08,
+      "pore_water_ec_ds_m": 0.42
+    },
+    "battery_level": 82.9,
+    "signal_strength_dbm": -63
+  },
+  {
+    "device_id": "DEV-SOIL-024",
+    "farm_id": 24,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-27T04:00:00",
+    "readings": {
+      "soil_temp_c": 23.9,
+      "soil_moisture_pct": 23.0,
+      "dielectric_permittivity": 22.03,
+      "pore_water_ec_ds_m": 1.1
+    },
+    "battery_level": 67.3,
+    "signal_strength_dbm": -83
+  },
+  {
+    "device_id": "DEV-MICR-017",
+    "farm_id": 17,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-02-27T14:00:00",
+    "readings": {
+      "ambient_temp_c": 28.4,
+      "relative_humidity_pct": 80.6,
+      "barometric_pressure_hpa": 1015.3,
+      "leaf_wetness_pct": 39.4
+    },
+    "battery_level": 69.1,
+    "signal_strength_dbm": -80
+  },
+  {
+    "device_id": "DEV-SOIL-006",
+    "farm_id": 6,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-28T04:00:00",
+    "readings": {
+      "soil_temp_c": 27.3,
+      "soil_moisture_pct": 35.4,
+      "dielectric_permittivity": 34.92,
+      "pore_water_ec_ds_m": 0.77
+    },
+    "battery_level": 73.9,
+    "signal_strength_dbm": -83
+  },
+  {
+    "device_id": "DEV-FLOW-043",
+    "farm_id": 43,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-02-28T13:00:00",
+    "readings": {
+      "flow_rate_lpm": 215.0,
+      "line_pressure_bar": 2.58,
+      "cumulative_flow_m3": 108.9
+    },
+    "battery_level": 70.0,
+    "signal_strength_dbm": -81
+  },
+  {
+    "device_id": "DEV-SOIL-045",
+    "farm_id": 45,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-29T03:00:00",
+    "readings": {
+      "soil_temp_c": 23.2,
+      "soil_moisture_pct": 37.3,
+      "dielectric_permittivity": 12.28,
+      "pore_water_ec_ds_m": 0.92
+    },
+    "battery_level": 74.0,
+    "signal_strength_dbm": -69
+  },
+  {
+    "device_id": "DEV-SOIL-001",
+    "farm_id": 1,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-02-29T14:00:00",
+    "readings": {
+      "soil_temp_c": 22.5,
+      "soil_moisture_pct": 29.3,
+      "dielectric_permittivity": 23.05,
+      "pore_water_ec_ds_m": 0.61
+    },
+    "battery_level": 87.6,
+    "signal_strength_dbm": -70
+  },
+  {
+    "device_id": "DEV-SOIL-031",
+    "farm_id": 31,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-01T01:00:00",
+    "readings": {
+      "soil_temp_c": 20.4,
+      "soil_moisture_pct": 38.6,
+      "dielectric_permittivity": 26.42,
+      "pore_water_ec_ds_m": 1.26
+    },
+    "battery_level": 67.4,
+    "signal_strength_dbm": -64
+  },
+  {
+    "device_id": "DEV-SOIL-009",
+    "farm_id": 9,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-01T16:00:00",
+    "readings": {
+      "soil_temp_c": 30.1,
+      "soil_moisture_pct": 24.0,
+      "dielectric_permittivity": 23.81,
+      "pore_water_ec_ds_m": 1.39
+    },
+    "battery_level": 84.2,
+    "signal_strength_dbm": -78
+  },
+  {
+    "device_id": "DEV-FLOW-041",
+    "farm_id": 41,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-02T03:00:00",
+    "readings": {
+      "flow_rate_lpm": 203.2,
+      "line_pressure_bar": 2.12,
+      "cumulative_flow_m3": 117.2
+    },
+    "battery_level": 67.0,
+    "signal_strength_dbm": -72
+  },
+  {
+    "device_id": "DEV-MICR-003",
+    "farm_id": 3,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-03-02T14:00:00",
+    "readings": {
+      "ambient_temp_c": 22.4,
+      "relative_humidity_pct": 66.9,
+      "barometric_pressure_hpa": 1015.4,
+      "leaf_wetness_pct": 17.6
+    },
+    "battery_level": 85.6,
+    "signal_strength_dbm": -58
+  },
+  {
+    "device_id": "DEV-MICR-015",
+    "farm_id": 15,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-03-03T01:00:00",
+    "readings": {
+      "ambient_temp_c": 31.8,
+      "relative_humidity_pct": 73.5,
+      "barometric_pressure_hpa": 1015.1,
+      "leaf_wetness_pct": 29.1
+    },
+    "battery_level": 90.7,
+    "signal_strength_dbm": -80
+  },
+  {
+    "device_id": "DEV-FLOW-016",
+    "farm_id": 16,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-03T16:00:00",
+    "readings": {
+      "flow_rate_lpm": 186.2,
+      "line_pressure_bar": 2.88,
+      "cumulative_flow_m3": 164.0
+    },
+    "battery_level": 66.1,
+    "signal_strength_dbm": -83
+  },
+  {
+    "device_id": "DEV-FLOW-036",
+    "farm_id": 36,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-04T00:00:00",
+    "readings": {
+      "flow_rate_lpm": 325.1,
+      "line_pressure_bar": 2.0,
+      "cumulative_flow_m3": 221.4
+    },
+    "battery_level": 77.6,
+    "signal_strength_dbm": -73
+  },
+  {
+    "device_id": "DEV-FLOW-018",
+    "farm_id": 18,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-04T15:00:00",
+    "readings": {
+      "flow_rate_lpm": 305.6,
+      "line_pressure_bar": 3.08,
+      "cumulative_flow_m3": 128.5
+    },
+    "battery_level": 83.2,
+    "signal_strength_dbm": -75
+  },
+  {
+    "device_id": "DEV-FLOW-020",
+    "farm_id": 20,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-05T03:00:00",
+    "readings": {
+      "flow_rate_lpm": 232.2,
+      "line_pressure_bar": 2.86,
+      "cumulative_flow_m3": 275.9
+    },
+    "battery_level": 85.0,
+    "signal_strength_dbm": -68
+  },
+  {
+    "device_id": "DEV-FLOW-044",
+    "farm_id": 44,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-05T16:00:00",
+    "readings": {
+      "flow_rate_lpm": 272.0,
+      "line_pressure_bar": 2.6,
+      "cumulative_flow_m3": 174.1
+    },
+    "battery_level": 68.1,
+    "signal_strength_dbm": -70
+  },
+  {
+    "device_id": "DEV-FLOW-022",
+    "farm_id": 22,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-06T04:00:00",
+    "readings": {
+      "flow_rate_lpm": 261.8,
+      "line_pressure_bar": 1.89,
+      "cumulative_flow_m3": 218.0
+    },
+    "battery_level": 96.8,
+    "signal_strength_dbm": -58
+  },
+  {
+    "device_id": "DEV-FLOW-019",
+    "farm_id": 19,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-06T16:00:00",
+    "readings": {
+      "flow_rate_lpm": 172.4,
+      "line_pressure_bar": 3.1,
+      "cumulative_flow_m3": 134.1
+    },
+    "battery_level": 73.1,
+    "signal_strength_dbm": -79
+  },
+  {
+    "device_id": "DEV-SOIL-023",
+    "farm_id": 23,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-07T02:00:00",
+    "readings": {
+      "soil_temp_c": 29.6,
+      "soil_moisture_pct": 37.5,
+      "dielectric_permittivity": 21.47,
+      "pore_water_ec_ds_m": 0.66
+    },
+    "battery_level": 79.4,
+    "signal_strength_dbm": -64
+  },
+  {
+    "device_id": "DEV-SOIL-013",
+    "farm_id": 13,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-07T16:00:00",
+    "readings": {
+      "soil_temp_c": 29.2,
+      "soil_moisture_pct": 42.6,
+      "dielectric_permittivity": 16.37,
+      "pore_water_ec_ds_m": 1.09
+    },
+    "battery_level": 89.2,
+    "signal_strength_dbm": -68
+  },
+  {
+    "device_id": "DEV-MICR-021",
+    "farm_id": 21,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-03-08T01:00:00",
+    "readings": {
+      "ambient_temp_c": 31.3,
+      "relative_humidity_pct": 39.5,
+      "barometric_pressure_hpa": 1013.8,
+      "leaf_wetness_pct": 39.4
+    },
+    "battery_level": 86.7,
+    "signal_strength_dbm": -79
+  },
+  {
+    "device_id": "DEV-SOIL-039",
+    "farm_id": 39,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-08T14:00:00",
+    "readings": {
+      "soil_temp_c": 30.4,
+      "soil_moisture_pct": 46.3,
+      "dielectric_permittivity": 20.62,
+      "pore_water_ec_ds_m": 0.79
+    },
+    "battery_level": 89.4,
+    "signal_strength_dbm": -56
+  },
+  {
+    "device_id": "DEV-FLOW-037",
+    "farm_id": 37,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-09T03:00:00",
+    "readings": {
+      "flow_rate_lpm": 198.5,
+      "line_pressure_bar": 2.16,
+      "cumulative_flow_m3": 64.8
+    },
+    "battery_level": 69.2,
+    "signal_strength_dbm": -73
+  },
+  {
+    "device_id": "DEV-SOIL-036",
+    "farm_id": 36,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-09T15:00:00",
+    "readings": {
+      "soil_temp_c": 18.9,
+      "soil_moisture_pct": 46.4,
+      "dielectric_permittivity": 17.86,
+      "pore_water_ec_ds_m": 0.9
+    },
+    "battery_level": 96.8,
+    "signal_strength_dbm": -68
+  },
+  {
+    "device_id": "DEV-FLOW-038",
+    "farm_id": 38,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-10T02:00:00",
+    "readings": {
+      "flow_rate_lpm": 250.5,
+      "line_pressure_bar": 2.08,
+      "cumulative_flow_m3": 59.0
+    },
+    "battery_level": 79.5,
+    "signal_strength_dbm": -70
+  },
+  {
+    "device_id": "DEV-MICR-039",
+    "farm_id": 39,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-03-10T12:00:00",
+    "readings": {
+      "ambient_temp_c": 29.0,
+      "relative_humidity_pct": 47.2,
+      "barometric_pressure_hpa": 1009.1,
+      "leaf_wetness_pct": 5.5
+    },
+    "battery_level": 90.8,
+    "signal_strength_dbm": -84
+  },
+  {
+    "device_id": "DEV-MICR-003",
+    "farm_id": 3,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-03-11T00:00:00",
+    "readings": {
+      "ambient_temp_c": 23.7,
+      "relative_humidity_pct": 59.4,
+      "barometric_pressure_hpa": 1009.0,
+      "leaf_wetness_pct": 4.3
+    },
+    "battery_level": 90.3,
+    "signal_strength_dbm": -72
+  },
+  {
+    "device_id": "DEV-FLOW-014",
+    "farm_id": 14,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-11T12:00:00",
+    "readings": {
+      "flow_rate_lpm": 250.3,
+      "line_pressure_bar": 1.81,
+      "cumulative_flow_m3": 137.8
+    },
+    "battery_level": 86.2,
+    "signal_strength_dbm": -77
+  },
+  {
+    "device_id": "DEV-SOIL-019",
+    "farm_id": 19,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-12T03:00:00",
+    "readings": {
+      "soil_temp_c": 21.2,
+      "soil_moisture_pct": 40.5,
+      "dielectric_permittivity": 25.12,
+      "pore_water_ec_ds_m": 0.67
+    },
+    "battery_level": 83.8,
+    "signal_strength_dbm": -59
+  },
+  {
+    "device_id": "DEV-SOIL-016",
+    "farm_id": 16,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-12T13:00:00",
+    "readings": {
+      "soil_temp_c": 25.8,
+      "soil_moisture_pct": 31.5,
+      "dielectric_permittivity": 17.06,
+      "pore_water_ec_ds_m": 1.21
+    },
+    "battery_level": 93.1,
+    "signal_strength_dbm": -79
+  },
+  {
+    "device_id": "DEV-SOIL-035",
+    "farm_id": 35,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-13T04:00:00",
+    "readings": {
+      "soil_temp_c": 31.4,
+      "soil_moisture_pct": 24.7,
+      "dielectric_permittivity": 29.03,
+      "pore_water_ec_ds_m": 1.38
+    },
+    "battery_level": 74.2,
+    "signal_strength_dbm": -70
+  },
+  {
+    "device_id": "DEV-SOIL-008",
+    "farm_id": 8,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-13T12:00:00",
+    "readings": {
+      "soil_temp_c": 29.8,
+      "soil_moisture_pct": 28.6,
+      "dielectric_permittivity": 22.57,
+      "pore_water_ec_ds_m": 0.57
+    },
+    "battery_level": 70.9,
+    "signal_strength_dbm": -78
+  },
+  {
+    "device_id": "DEV-SOIL-018",
+    "farm_id": 18,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-14T00:00:00",
+    "readings": {
+      "soil_temp_c": 21.3,
+      "soil_moisture_pct": 31.3,
+      "dielectric_permittivity": 25.33,
+      "pore_water_ec_ds_m": 1.0
+    },
+    "battery_level": 78.1,
+    "signal_strength_dbm": -79
+  },
+  {
+    "device_id": "DEV-SOIL-015",
+    "farm_id": 15,
+    "sensor_type": "SoilProbe-V2",
+    "timestamp": "2024-03-14T12:00:00",
+    "readings": {
+      "soil_temp_c": 23.7,
+      "soil_moisture_pct": 35.3,
+      "dielectric_permittivity": 15.46,
+      "pore_water_ec_ds_m": 1.29
+    },
+    "battery_level": 93.9,
+    "signal_strength_dbm": -61
+  },
+  {
+    "device_id": "DEV-FLOW-025",
+    "farm_id": 25,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-15T00:00:00",
+    "readings": {
+      "flow_rate_lpm": 296.0,
+      "line_pressure_bar": 2.09,
+      "cumulative_flow_m3": 230.2
+    },
+    "battery_level": 79.8,
+    "signal_strength_dbm": -57
+  },
+  {
+    "device_id": "DEV-MICR-034",
+    "farm_id": 34,
+    "sensor_type": "MicroWeatherStation",
+    "timestamp": "2024-03-15T14:00:00",
+    "readings": {
+      "ambient_temp_c": 22.3,
+      "relative_humidity_pct": 57.9,
+      "barometric_pressure_hpa": 1011.1,
+      "leaf_wetness_pct": 19.9
+    },
+    "battery_level": 72.0,
+    "signal_strength_dbm": -81
+  },
+  {
+    "device_id": "DEV-FLOW-046",
+    "farm_id": 46,
+    "sensor_type": "FlowMeter-Digital",
+    "timestamp": "2024-03-16T00:00:00",
+    "readings": {
+      "flow_rate_lpm": 312.5,
+      "line_pressure_bar": 2.76,
+      "cumulative_flow_m3": 91.3
+    },
+    "battery_level": 78.7,
+    "signal_strength_dbm": -79
+  }
+]

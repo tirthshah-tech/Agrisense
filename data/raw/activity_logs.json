@@ -1,0 +1,1102 @@
+[
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "31",
+    "user": "system",
+    "timestamp": "2023-06-07T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 35
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "30",
+    "user": "system",
+    "timestamp": "2023-06-14T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 16
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "25",
+    "user": "system",
+    "timestamp": "2023-06-20T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 9
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "21",
+    "user": "admin_agrisense",
+    "timestamp": "2023-06-27T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 24
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "47",
+    "user": "kvk_operator",
+    "timestamp": "2023-07-03T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 11
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "7",
+    "user": "system",
+    "timestamp": "2023-07-08T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 49
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "33",
+    "user": "admin_agrisense",
+    "timestamp": "2023-07-13T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 34
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "51",
+    "user": "kvk_operator",
+    "timestamp": "2023-07-21T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 29
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "1",
+    "user": "kvk_operator",
+    "timestamp": "2023-07-25T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 40
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "37",
+    "user": "system",
+    "timestamp": "2023-08-01T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 6
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "2",
+    "user": "system",
+    "timestamp": "2023-08-06T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 40
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "28",
+    "user": "kvk_operator",
+    "timestamp": "2023-08-12T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 32
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "22",
+    "user": "system",
+    "timestamp": "2023-08-19T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 46
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "40",
+    "user": "kvk_operator",
+    "timestamp": "2023-08-26T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 35
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "44",
+    "user": "kvk_operator",
+    "timestamp": "2023-08-30T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 47
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "15",
+    "user": "kvk_operator",
+    "timestamp": "2023-09-06T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 7
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "18",
+    "user": "system",
+    "timestamp": "2023-09-11T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 50
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "33",
+    "user": "admin_agrisense",
+    "timestamp": "2023-09-18T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 6
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "10",
+    "user": "system",
+    "timestamp": "2023-09-25T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 10
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "53",
+    "user": "system",
+    "timestamp": "2023-10-01T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 26
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "3",
+    "user": "kvk_operator",
+    "timestamp": "2023-10-06T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 10
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "16",
+    "user": "system",
+    "timestamp": "2023-10-13T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 16
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "31",
+    "user": "admin_agrisense",
+    "timestamp": "2023-10-17T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 50
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "25",
+    "user": "admin_agrisense",
+    "timestamp": "2023-10-24T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 12
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "46",
+    "user": "admin_agrisense",
+    "timestamp": "2023-10-29T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 19
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "19",
+    "user": "kvk_operator",
+    "timestamp": "2023-11-06T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 17
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "34",
+    "user": "kvk_operator",
+    "timestamp": "2023-11-10T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 13
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "28",
+    "user": "kvk_operator",
+    "timestamp": "2023-11-16T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 24
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "3",
+    "user": "kvk_operator",
+    "timestamp": "2023-11-22T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 42
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "38",
+    "user": "admin_agrisense",
+    "timestamp": "2023-11-30T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 31
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "42",
+    "user": "system",
+    "timestamp": "2023-12-06T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 21
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "10",
+    "user": "kvk_operator",
+    "timestamp": "2023-12-11T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 38
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "30",
+    "user": "kvk_operator",
+    "timestamp": "2023-12-18T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 9
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "52",
+    "user": "system",
+    "timestamp": "2023-12-23T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 29
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "33",
+    "user": "system",
+    "timestamp": "2023-12-28T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 28
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "40",
+    "user": "system",
+    "timestamp": "2024-01-05T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 48
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "33",
+    "user": "admin_agrisense",
+    "timestamp": "2024-01-11T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 15
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "7",
+    "user": "kvk_operator",
+    "timestamp": "2024-01-15T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 36
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "37",
+    "user": "system",
+    "timestamp": "2024-01-22T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 21
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "44",
+    "user": "admin_agrisense",
+    "timestamp": "2024-01-27T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 28
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "50",
+    "user": "system",
+    "timestamp": "2024-02-02T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 23
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "33",
+    "user": "kvk_operator",
+    "timestamp": "2024-02-10T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 29
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "29",
+    "user": "kvk_operator",
+    "timestamp": "2024-02-14T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 19
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "48",
+    "user": "kvk_operator",
+    "timestamp": "2024-02-22T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 47
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "13",
+    "user": "system",
+    "timestamp": "2024-02-27T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 17
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "4",
+    "user": "system",
+    "timestamp": "2024-03-04T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 12
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "50",
+    "user": "kvk_operator",
+    "timestamp": "2024-03-09T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 25
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "32",
+    "user": "kvk_operator",
+    "timestamp": "2024-03-17T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 40
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "48",
+    "user": "admin_agrisense",
+    "timestamp": "2024-03-21T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 41
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "11",
+    "user": "kvk_operator",
+    "timestamp": "2024-03-27T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 21
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "49",
+    "user": "admin_agrisense",
+    "timestamp": "2024-04-03T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 4
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "50",
+    "user": "system",
+    "timestamp": "2024-04-10T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 18
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "50",
+    "user": "kvk_operator",
+    "timestamp": "2024-04-16T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 14
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "44",
+    "user": "kvk_operator",
+    "timestamp": "2024-04-21T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 30
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "41",
+    "user": "system",
+    "timestamp": "2024-04-27T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 35
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "51",
+    "user": "admin_agrisense",
+    "timestamp": "2024-05-02T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 35
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "5",
+    "user": "system",
+    "timestamp": "2024-05-08T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 36
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "12",
+    "user": "system",
+    "timestamp": "2024-05-15T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 4
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "16",
+    "user": "system",
+    "timestamp": "2024-05-20T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 18
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "7",
+    "user": "kvk_operator",
+    "timestamp": "2024-05-26T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 20
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "1",
+    "user": "system",
+    "timestamp": "2024-06-01T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 16
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "51",
+    "user": "system",
+    "timestamp": "2024-06-08T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 12
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "48",
+    "user": "system",
+    "timestamp": "2024-06-15T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 44
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "25",
+    "user": "kvk_operator",
+    "timestamp": "2024-06-21T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 8
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "27",
+    "user": "system",
+    "timestamp": "2024-06-25T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 16
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "45",
+    "user": "admin_agrisense",
+    "timestamp": "2024-07-03T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 16
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "1",
+    "user": "admin_agrisense",
+    "timestamp": "2024-07-09T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 48
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "32",
+    "user": "admin_agrisense",
+    "timestamp": "2024-07-15T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 31
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "3",
+    "user": "system",
+    "timestamp": "2024-07-19T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 23
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "17",
+    "user": "kvk_operator",
+    "timestamp": "2024-07-25T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 46
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "31",
+    "user": "system",
+    "timestamp": "2024-07-31T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 30
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "16",
+    "user": "admin_agrisense",
+    "timestamp": "2024-08-07T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 36
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "51",
+    "user": "kvk_operator",
+    "timestamp": "2024-08-12T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 43
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "12",
+    "user": "system",
+    "timestamp": "2024-08-18T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 30
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "24",
+    "user": "system",
+    "timestamp": "2024-08-26T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 49
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "49",
+    "user": "system",
+    "timestamp": "2024-09-01T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 40
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "20",
+    "user": "admin_agrisense",
+    "timestamp": "2024-09-07T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 17
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "39",
+    "user": "admin_agrisense",
+    "timestamp": "2024-09-12T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 10
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "22",
+    "user": "admin_agrisense",
+    "timestamp": "2024-09-18T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 8
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "28",
+    "user": "admin_agrisense",
+    "timestamp": "2024-09-24T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 6
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "29",
+    "user": "kvk_operator",
+    "timestamp": "2024-09-30T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 44
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "49",
+    "user": "kvk_operator",
+    "timestamp": "2024-10-07T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 33
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "55",
+    "user": "admin_agrisense",
+    "timestamp": "2024-10-11T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 16
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "7",
+    "user": "system",
+    "timestamp": "2024-10-18T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 48
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "50",
+    "user": "admin_agrisense",
+    "timestamp": "2024-10-24T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 35
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "24",
+    "user": "admin_agrisense",
+    "timestamp": "2024-10-29T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 32
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "7",
+    "user": "system",
+    "timestamp": "2024-11-05T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 35
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "19",
+    "user": "system",
+    "timestamp": "2024-11-12T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 11
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "44",
+    "user": "kvk_operator",
+    "timestamp": "2024-11-16T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 46
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "25",
+    "user": "system",
+    "timestamp": "2024-11-24T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 20
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "25",
+    "user": "system",
+    "timestamp": "2024-11-29T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 32
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "47",
+    "user": "system",
+    "timestamp": "2024-12-04T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 1
+    }
+  },
+  {
+    "action": "alert generation",
+    "entity": "agricultural_alerts",
+    "entity_id": "8",
+    "user": "system",
+    "timestamp": "2024-12-12T08:00:00+00:00",
+    "details": {
+      "summary": "Rule-based engine evaluated threshold conditions and dispatched alert",
+      "records_affected": 30
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "44",
+    "user": "admin_agrisense",
+    "timestamp": "2024-12-16T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 12
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "12",
+    "user": "admin_agrisense",
+    "timestamp": "2024-12-23T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 33
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "39",
+    "user": "admin_agrisense",
+    "timestamp": "2024-12-28T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 35
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "27",
+    "user": "admin_agrisense",
+    "timestamp": "2025-01-03T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 31
+    }
+  },
+  {
+    "action": "data import",
+    "entity": "crop_cycles",
+    "entity_id": "25",
+    "user": "admin_agrisense",
+    "timestamp": "2025-01-10T08:00:00+00:00",
+    "details": {
+      "summary": "Batch imported seasonal crop cycle records from agronomist portal",
+      "records_affected": 25
+    }
+  },
+  {
+    "action": "database synchronization",
+    "entity": "database",
+    "entity_id": "33",
+    "user": "admin_agrisense",
+    "timestamp": "2025-01-17T08:00:00+00:00",
+    "details": {
+      "summary": "Synchronized relational records and generated MongoDB observation documents",
+      "records_affected": 2
+    }
+  },
+  {
+    "action": "data update",
+    "entity": "soil_records",
+    "entity_id": "36",
+    "user": "kvk_operator",
+    "timestamp": "2025-01-22T08:00:00+00:00",
+    "details": {
+      "summary": "Updated soil chemical analysis from KVK laboratory testing",
+      "records_affected": 50
+    }
+  }
+]

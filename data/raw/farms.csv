@@ -1,0 +1,56 @@
+farm_id,farmer_id,farm_name,area_hectares,soil_type,irrigation_type,location,latitude,longitude,created_at
+1,1,Ramesh's Green Acres,9.13,Alluvial,Canal Flood,"Malegaon, Nashik",20.110559,73.876387,2023-01-17T00:00:00+00:00
+2,2,Suresh's Krishi Farm,10.25,Deep Black,Canal Flood,"Barshi, Solapur",17.724364,75.868042,2023-01-19T00:00:00+00:00
+3,3,Rajesh's Bagayat Field,6.98,Alluvial,Drip,"Parner, Ahmednagar",19.204116,74.839805,2023-01-21T00:00:00+00:00
+4,4,Anand's Bagayat Field,14.13,Medium Black,Drip,"Niphad, Nashik",20.086424,73.741427,2023-01-23T00:00:00+00:00
+5,5,Sunil's Sheti Plot,9.3,Medium Black,Canal Flood,"Shirur, Pune",18.583403,73.866151,2023-01-25T00:00:00+00:00
+6,6,Nitin's Sheti Plot,13.42,Laterite,Canal Flood,"Khandala, Satara",17.677765,73.906548,2023-01-27T00:00:00+00:00
+7,7,Santosh's Bagayat Field,12.89,Red Sandy Loam,Sprinkler,"Daund, Pune",18.414302,73.947422,2023-01-29T00:00:00+00:00
+8,8,Sachin's Krishi Farm,2.34,Alluvial,Drip,"Umred, Nagpur",21.260516,79.096049,2023-01-31T00:00:00+00:00
+9,9,Ganesh's Wadi Plot,2.91,Alluvial,Sprinkler,"Barshi, Solapur",17.603514,75.995784,2023-02-02T00:00:00+00:00
+10,10,Mahesh's Green Acres,14.03,Laterite,Sprinkler,"Ramtek, Nagpur",21.196908,79.063958,2023-02-04T00:00:00+00:00
+11,11,Vijay's Bagayat Field,7.03,Laterite,Tube Well,"Kopargaon, Ahmednagar",19.004241,74.683527,2023-02-06T00:00:00+00:00
+12,12,Pravin's Bagayat Field,1.48,Laterite,Sprinkler,"Sinnar, Nashik",20.018726,73.671526,2023-02-08T00:00:00+00:00
+13,13,Deepak's Krishi Farm,4.24,Deep Black,Canal Flood,"Yeola, Nashik",19.894506,73.726921,2023-02-10T00:00:00+00:00
+14,14,Vikram's Green Acres,4.05,Medium Black,Tube Well,"Mohol, Solapur",17.598219,75.899914,2023-02-12T00:00:00+00:00
+15,15,Amol's Green Acres,3.73,Deep Black,Tube Well,"Raver, Jalgaon",20.972731,75.541265,2023-02-14T00:00:00+00:00
+16,16,Dattatray's Krishi Farm,10.16,Deep Black,Drip,"Saoner, Nagpur",21.122429,79.049633,2023-02-16T00:00:00+00:00
+17,17,Vikas's Krishi Farm,4.51,Medium Black,Tube Well,"Madha, Solapur",17.573544,75.830437,2023-02-18T00:00:00+00:00
+18,18,Sanjay's Green Acres,4.52,Deep Black,Tube Well,"Karad, Satara",17.754425,74.085132,2023-02-20T00:00:00+00:00
+19,19,Balasaheb's Krishi Farm,1.87,Laterite,Drip,"Karad, Satara",17.793059,74.102028,2023-02-22T00:00:00+00:00
+20,20,Ashok's Wadi Plot,3.41,Alluvial,Tube Well,"Koregaon, Satara",17.611799,73.97595,2023-02-24T00:00:00+00:00
+21,21,Kishor's Krishi Farm,3.39,Deep Black,Tube Well,"Mohol, Solapur",17.603549,75.974577,2023-02-26T00:00:00+00:00
+22,22,Arun's Green Acres,4.99,Laterite,Tube Well,"Karveer, Kolhapur",16.622151,74.19451,2023-02-28T00:00:00+00:00
+23,23,Pradip's Krishi Farm,8.9,Laterite,Drip,"Gadhinglaj, Kolhapur",16.764514,74.13702,2023-03-02T00:00:00+00:00
+24,24,Tukaram's Sheti Plot,7.54,Laterite,Sprinkler,"Madha, Solapur",17.553551,75.908279,2023-03-04T00:00:00+00:00
+25,25,Pandurang's Wadi Plot,2.11,Deep Black,Sprinkler,"Parner, Ahmednagar",19.072106,74.855583,2023-03-06T00:00:00+00:00
+26,26,Eknath's Sheti Plot,4.47,Laterite,Drip,"Koregaon, Satara",17.709152,73.980314,2023-03-08T00:00:00+00:00
+27,27,Namdeo's Sheti Plot,8.72,Red Sandy Loam,Canal Flood,"Hingna, Nagpur",21.074822,79.140086,2023-03-10T00:00:00+00:00
+28,28,Baban's Wadi Plot,4.73,Medium Black,Canal Flood,"Karad, Satara",17.670234,74.102664,2023-03-12T00:00:00+00:00
+29,29,Shankar's Krishi Farm,1.32,Laterite,Drip,"Wai, Satara",17.578083,73.930857,2023-03-14T00:00:00+00:00
+30,30,Vishnu's Bagayat Field,2.96,Red Sandy Loam,Drip,"Katol, Nagpur",21.236825,79.056887,2023-03-16T00:00:00+00:00
+31,31,Umesh's Wadi Plot,7.03,Laterite,Canal Flood,"Phaltan, Satara",17.707303,74.116636,2023-03-18T00:00:00+00:00
+32,32,Rohit's Sheti Plot,1.3,Laterite,Canal Flood,"Pachora, Jalgaon",21.111321,75.467461,2023-03-20T00:00:00+00:00
+33,33,Ajay's Wadi Plot,4.72,Deep Black,Sprinkler,"Chopda, Jalgaon",20.953064,75.587759,2023-03-22T00:00:00+00:00
+34,34,Sandip's Bagayat Field,3.91,Red Sandy Loam,Tube Well,"Parner, Ahmednagar",19.035469,74.847558,2023-03-24T00:00:00+00:00
+35,35,Kailas's Krishi Farm,2.43,Alluvial,Canal Flood,"Madha, Solapur",17.550481,75.866454,2023-03-26T00:00:00+00:00
+36,36,Tanaji's Wadi Plot,9.67,Red Sandy Loam,Sprinkler,"Kalmeshwar, Nagpur",21.203695,79.100603,2023-03-28T00:00:00+00:00
+37,37,Sudhir's Green Acres,8.66,Deep Black,Drip,"Shrirampur, Ahmednagar",19.202012,74.795445,2023-03-30T00:00:00+00:00
+38,38,Bhausaheb's Wadi Plot,8.46,Red Sandy Loam,Sprinkler,"Niphad, Nashik",19.980649,73.679839,2023-04-01T00:00:00+00:00
+39,39,Devidas's Bagayat Field,13.16,Deep Black,Canal Flood,"Parner, Ahmednagar",19.025618,74.689487,2023-04-03T00:00:00+00:00
+40,40,Chandrakant's Krishi Farm,5.9,Laterite,Tube Well,"Umred, Nagpur",21.259521,79.148075,2023-04-05T00:00:00+00:00
+41,16,Dattatray's Parcel #41,8.68,Medium Black,Tube Well,"Saoner, Nagpur",21.003236,79.159169,2023-04-24T00:00:00+00:00
+42,22,Arun's Parcel #42,7.99,Alluvial,Sprinkler,"Karveer, Kolhapur",16.635042,74.329512,2023-04-26T00:00:00+00:00
+43,7,Santosh's Parcel #43,4.68,Deep Black,Tube Well,"Daund, Pune",18.43713,73.951676,2023-04-28T00:00:00+00:00
+44,30,Vishnu's Parcel #44,4.4,Medium Black,Sprinkler,"Katol, Nagpur",21.002899,78.996139,2023-04-30T00:00:00+00:00
+45,22,Arun's Parcel #45,3.81,Deep Black,Canal Flood,"Karveer, Kolhapur",16.660344,74.246122,2023-05-02T00:00:00+00:00
+46,35,Kailas's Parcel #46,4.25,Deep Black,Drip,"Madha, Solapur",17.773012,75.834765,2023-05-04T00:00:00+00:00
+47,38,Bhausaheb's Parcel #47,9.49,Red Sandy Loam,Drip,"Niphad, Nashik",19.880021,73.770169,2023-05-06T00:00:00+00:00
+48,21,Kishor's Parcel #48,5.12,Laterite,Drip,"Mohol, Solapur",17.625459,75.929376,2023-05-08T00:00:00+00:00
+49,17,Vikas's Parcel #49,1.87,Alluvial,Drip,"Madha, Solapur",17.665876,75.998353,2023-05-10T00:00:00+00:00
+50,13,Deepak's Parcel #50,4.52,Deep Black,Canal Flood,"Yeola, Nashik",20.034447,73.838816,2023-05-12T00:00:00+00:00
+51,8,Sachin's Parcel #51,7.47,Red Sandy Loam,Canal Flood,"Umred, Nagpur",21.195868,79.036055,2023-05-14T00:00:00+00:00
+52,19,Balasaheb's Parcel #52,6.1,Medium Black,Tube Well,"Karad, Satara",17.729979,73.963444,2023-05-16T00:00:00+00:00
+53,12,Pravin's Parcel #53,6.61,Red Sandy Loam,Tube Well,"Sinnar, Nashik",20.011881,73.639922,2023-05-18T00:00:00+00:00
+54,19,Balasaheb's Parcel #54,3.24,Laterite,Canal Flood,"Karad, Satara",17.669996,73.982348,2023-05-20T00:00:00+00:00
+55,14,Vikram's Parcel #55,5.74,Medium Black,Drip,"Mohol, Solapur",17.595036,75.955556,2023-05-22T00:00:00+00:00

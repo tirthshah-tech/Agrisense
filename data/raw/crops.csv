@@ -1,0 +1,13 @@
+crop_id,crop_name,crop_category,ideal_season,ideal_soil_type,typical_growth_days,water_requirement_mm,standard_yield_kg_per_ha,created_at
+1,Sugarcane,Cash Crop,Perennial,Deep Black,365,1800.0,85000.0,2023-01-01T00:00:00+00:00
+2,Cotton,Cash Crop,Kharif,Medium Black,165,700.0,2200.0,2023-01-01T00:00:00+00:00
+3,Soybean,Oilseed,Kharif,Medium Black,95,500.0,2500.0,2023-01-01T00:00:00+00:00
+4,Onion,Vegetable,Rabi,Red Sandy Loam,115,450.0,22000.0,2023-01-01T00:00:00+00:00
+5,Tomato,Vegetable,Rabi,Red Sandy Loam,105,600.0,32000.0,2023-01-01T00:00:00+00:00
+6,Wheat,Cereal,Rabi,Alluvial,120,450.0,4000.0,2023-01-01T00:00:00+00:00
+7,Rice,Cereal,Kharif,Alluvial,125,1200.0,4500.0,2023-01-01T00:00:00+00:00
+8,Maize,Cereal,Kharif,Medium Black,105,550.0,5500.0,2023-01-01T00:00:00+00:00
+9,Potato,Vegetable,Rabi,Alluvial,90,500.0,24000.0,2023-01-01T00:00:00+00:00
+10,Groundnut,Oilseed,Kharif,Red Sandy Loam,110,550.0,2800.0,2023-01-01T00:00:00+00:00
+11,Tur (Pigeon Pea),Pulse,Kharif,Medium Black,155,600.0,1800.0,2023-01-01T00:00:00+00:00
+12,Chickpea (Gram),Pulse,Rabi,Deep Black,100,350.0,2000.0,2023-01-01T00:00:00+00:00
