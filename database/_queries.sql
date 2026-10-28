@@ -1,5 +1,5 @@
 -- ============================================================================
--- AgriSense: Basic SQL Queries (MySQL 8.0+)
+-- AgriSense: SQL Queries (MySQL 8.0+)
 -- Database : agrisense_db  (schema: database/mysql_schema.sql)
 -- Covers   : SELECT, WHERE, ORDER BY, LIMIT, DISTINCT, LIKE, BETWEEN, IN,
 --            COUNT / SUM / AVG / MIN / MAX, GROUP BY, HAVING, simple JOIN,
